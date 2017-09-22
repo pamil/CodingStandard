@@ -1,0 +1,4 @@
+checkers:
+    PhpCsFixer\Fixer\FunctionNotation\NativeFunctionInvocationFixer: {}
+    PhpCsFixer\Fixer\FunctionNotation\VoidReturnFixer: {}
+    PhpCsFixer\Fixer\Strict\StrictParamFixer: {}
